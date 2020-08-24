@@ -1,7 +1,7 @@
 import React from 'react'
 
-const App = () => {
+const App = () => (
     <div>hello webpack</div>
-}
+)
 
 export default App
